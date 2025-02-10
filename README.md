@@ -4,7 +4,7 @@ Welcome to **Brainwave**! This is a **sleek and modern landing page designed to 
 
 ## 🚀 **Live Demo**
 
-🔗 [View Project on Vercel](#) _[(If deployed, replace with the actual link)](https://brainwave-nine-orcin.vercel.app/)_
+🔗 [View Project on Vercel](#) _(https://brainwave-nine-orcin.vercel.app/)_
 
 ---
 
